@@ -1,0 +1,64 @@
+{
+  "ward_no": 151,
+  "ward_name": "Koramangala",
+  "boundary": {
+    "ward_no": 151,
+    "ward_name": "Koramangala",
+    "area_sq_km": 3.71,
+    "reservation": "Backward Category A (Women)",
+    "centroid_lat": 12.9313404051701,
+    "centroid_lon": 77.6246494460865
+  },
+  "census": {
+    "population_total": 38316,
+    "male": 19397,
+    "female": 18919,
+    "sc_population": 4943,
+    "st_population": 864,
+    "assembly_constituency": "172-B.T.M. LAYOUT",
+    "sc_st_share_pct": 15.16
+  },
+  "property_tax": {
+    "note": "Ward-level aggregate only \u2014 no per-property records, no tax bands.",
+    "by_year": [
+      {
+        "year": "2016-2017",
+        "applications": 8212,
+        "collection_lakhs": 2553.78
+      },
+      {
+        "year": "2017-2018",
+        "applications": 8034,
+        "collection_lakhs": 2605.57
+      },
+      {
+        "year": "2018-2019",
+        "applications": 8038,
+        "collection_lakhs": 2984.2
+      }
+    ],
+    "collection_growth_pct": 16.85
+  },
+  "flood_risk": {
+    "ward": "Koramangala",
+    "ward_no": 151,
+    "flood_vulnerable_points": [
+      {
+        "name": "Sony Signal to Maharaja signal in Koramangala",
+        "lon": 77.6264169996428,
+        "lat": 12.9368889998067,
+        "source": "OpenCity flood_vulnerable_locations (BBMP/KSRSAC)"
+      }
+    ],
+    "flood_prone_points": [
+      {
+        "name": "Koramangala Slum",
+        "lon": 77.6279742060404,
+        "lat": 12.9248172689016,
+        "source": "OpenCity flood_prone_locations (BBMP)"
+      }
+    ],
+    "low_lying_points": [],
+    "note": "Points from adjacent Ejipura ward (148) excluded via point-in-polygon check against actual Ward 151 boundary, even where dataset labels said 'Koramangala'"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "Bangalore-Building-Byelaws.pdf (BBMP Building Bye-Laws, 2003)",
+  "note": "City-wide bylaws, not Koramangala-specific. Used to ground agent reasoning about what redevelopment/land-use actions are legally plausible.",
+  "clauses": [
+    {
+      "id": "3.2(10.7)",
+      "topic": "slum_clearance_noc",
+      "summary": "Any development in an area notified under Section 3 of the Karnataka Slum Areas (Improvement & Clearance) Act, 1973 requires a No-Objection Certificate from the Karnataka Slum Clearance and Improvement Board, confirming non-interference with existing improvement schemes."
+    },
+    {
+      "id": "7.2",
+      "topic": "ews_lig_relaxation",
+      "summary": "Minimum plot size (50 sqm) and width (6m) rules for residential buildings can be relaxed by the Authority for EWS (Economically Weaker Section), LIG (Low Income Group) housing schemes, slum clearance/improvement schemes, and reconstruction in densely populated areas."
+    },
+    {
+      "id": "7.3",
+      "topic": "land_use_change",
+      "summary": "Sites outside approved BDA layouts need sanction for sub-division under the Karnataka Town and Country Planning Act, 1961, from the Bangalore Development Authority. Land use changes not conforming to the development plan/zoning also require BDA permission."
+    },
+    {
+      "id": "Table 4/5 (setbacks/FAR)",
+      "topic": "setbacks_far",
+      "summary": "Buildings must maintain minimum front/side/rear setbacks and comply with plot coverage and Floor Area Ratio (FAR) limits that vary by plot size and building height/type. Higher-value redevelopment (larger footprint, more floors) is setback- and FAR-constrained the same way regardless of the plot owner's income level."
+    }
+  ],
+  "relevance_for_personas": {
+    "poor": "EWS/LIG relaxation (7.2) and slum-clearance NOC (3.2(10.7)) are directly relevant if any planning scenario touches informal settlements like the Koramangala Slum flood-prone point.",
+    "middle": "Setback/FAR rules (Table 4/5) most relevant for any redevelopment of existing 1-2BHK apartment stock.",
+    "wealthy": "Land-use change rules (7.3) most relevant for bungalow-to-commercial conversions or larger redevelopment proposals, common in older Koramangala blocks."
+  }
+}

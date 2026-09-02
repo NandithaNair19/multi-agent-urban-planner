@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-08-31T21:06:28.849885",
+  "ward": "Koramangala (Ward 151)",
+  "scenario": "The BBMP is proposing to convert a vacant lot near the Sony Signal to Maharaja Signal stretch (a known flood-vulnerable point) into a flood retention pond with a small public park on top, as part of stormwater drain upgrades in Koramangala ward.",
+  "personas_unweighted": true,
+  "reactions": [
+    {
+      "persona_id": "poor",
+      "persona_label": "Poor / Working-class resident",
+      "reaction": "Every monsoon, the overflow between Sony Signal and Maharaja Signal pours right into our homes, forcing us to scoop dirty drain water off our floors and ruining our stoves and auto-rickshaws. A retention pond that actually stops our settlement from flooding every time it rains would be a huge relief for my family. But whenever the BBMP starts talking about fancy \"public parks,\" we get terrified that it\u2019s just an excuse to clear out our huts or drive up rents until working people like us are forced out of Koramangala altogether."
+    },
+    {
+      "persona_id": "middle",
+      "persona_label": "Middle-class resident",
+      "reaction": "As someone who commutes past the Sony World to Maharaja Signal stretch daily, any project that stops my two-wheeler from getting submerged every monsoon is a massive relief for my sanity and property values. Converting that vacant lot into a retention pond with a park sounds genuinely practical on paper, especially if it actually fixes the stormwater drain overflow instead of just being another photo-op. However, my real worry is execution and maintenance\u2014if the BBMP doesn't maintain the pond properly, it\u2019ll just become a stagnant, stink-filled mosquito breeder right next to our residential layout. If they can commit to a clear timeline without blocking the main road for years and guarantee upkeep, they have my full support."
+    },
+    {
+      "persona_id": "wealthy",
+      "persona_label": "Wealthy resident",
+      "reaction": "While mitigating the chronic flooding along the Sony-Maharaja Signal corridor is essential to protect our capital appreciation and neighborhood accessibility, any formal land-use change for this vacant lot must strictly comply with BDA sanctioning under the KTCP Act to set a sound planning precedent. We cannot afford a mismanaged BBMP project that devolves into a stagnant, mosquito-breeding eye-sore; the retention pond requires high-grade, sub-surface engineering seamlessly integrated with the park above to actually preserve local character. Provided the execution involves minimal traffic disruption and a binding municipal commitment against future commercial encroachment, I view this as a necessary infrastructure upgrade to safeguard Koramangala\u2019s long-term asset values."
+    }
+  ]
+}
