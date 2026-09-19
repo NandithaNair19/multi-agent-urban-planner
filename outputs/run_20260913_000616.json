@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-13T00:06:16.202395",
+  "ward": "Koramangala (Ward 151)",
+  "scenario": "The BBMP is proposing to convert a vacant lot near the Sony Signal to Maharaja Signal stretch (a known flood-vulnerable point) into a flood retention pond with a small public park on top, as part of stormwater drain upgrades in Koramangala ward.",
+  "personas_unweighted": true,
+  "reactions": [
+    {
+      "persona_id": "poor",
+      "persona_label": "Poor / Working-class resident",
+      "reaction": "Every monsoon, dirty drain water floods right into our small homes near the Sony Signal stretch, ruining our ration, clothes, and the auto-rickshaws we rely on for work. A retention pond could finally save us from drowning every time it rains, but we are terrified that building a fancy park on top will just lead to \"beautification\" drives that push our settlement out. If BBMP is doing this, they must give us a firm guarantee that our homes won't be cleared or demolished, because we need flood relief, not another excuse to evict the poor."
+    },
+    {
+      "persona_id": "middle",
+      "persona_label": "Middle-class resident",
+      "reaction": "Honestly, anyone commuting past the Sony Signal to Maharaja Signal stretch knows the absolute nightmare monsoon waterlogging creates for our daily office travel and apartment basements. If this retention pond actually functions to drain that bottleneck and keep the main roads clear, it has my full support\u2014and having a small park on top would be a great bonus for a quick walk after a long workday. However, given BBMP's track record, I'm skeptical about up-keep, so we need a concrete maintenance and desilting schedule ensuring it doesn't just turn into a stagnant, mosquito-breeding dump that hurts our property values."
+    },
+    {
+      "persona_id": "wealthy",
+      "persona_label": "Wealthy resident",
+      "reaction": "While mitigating the chronic inundation along the Sony Signal to Maharaja Signal corridor is vital to protecting our precinct\u2019s long-term asset values, I am deeply cautious about the BBMP\u2019s execution of a retention pond in our immediate vicinity. Any structural land-use change of this scale must strictly comply with BDA sanction procedures under the KTCP Act to ensure this does not become an ill-maintained, stagnant nuisance that degrades neighboring residential exclusivity. If this project proceeds, we demand binding commitments on low-disruption construction timelines, rigorous vector control, and top-tier park maintenance so our property equity isn't compromised by municipal oversights."
+    }
+  ]
+}
