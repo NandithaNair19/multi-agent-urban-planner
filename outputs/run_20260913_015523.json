@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-13T01:55:23.345867",
+  "ward": "Koramangala (Ward 151)",
+  "scenario": "The BBMP is proposing to convert a vacant lot near the Sony Signal to Maharaja Signal stretch (a known flood-vulnerable point) into a flood retention pond with a small public park on top, as part of stormwater drain upgrades in Koramangala ward.",
+  "personas_unweighted": true,
+  "reactions": [
+    {
+      "persona_id": "middle",
+      "persona_label": "Middle-class resident",
+      "reaction": "That Sony Signal to Maharaja Signal stretch turns into a complete gridlock during monsoons, which directly derails my daily commute to work. While a functional retention pond sounds necessary on paper to clear the roads, I'm skeptical that adding a \"public park\" isn't just cosmetic fluff that BBMP will neglect, turning the site into a stagnant, mosquito-ridden mess. I will only back this proposal if we get concrete engineering proof that it will actually solve the waterlogging without becoming an unmaintained civic hazard that tanks our neighborhood property values."
+    },
+    {
+      "persona_id": "poor",
+      "persona_label": "Poor / Working-class resident",
+      "reaction": "Every monsoon, the overflow along the Sony Signal stretch floods our huts, ruining our belongings and keeping us from reaching our daily wage work. A retention pond could finally stop our homes from being submerged every rainy season, but we are terrified that adding a fancy public park will just be used as an excuse to beautify the area and push our settlement out. We will only support this project if the BBMP guarantees in writing that no poor families will be displaced and that our homes will actually be protected, not bulldozed."
+    },
+    {
+      "persona_id": "wealthy",
+      "persona_label": "Wealthy resident",
+      "reaction": "While resolving the chronic Sony-to-Maharaja Signal drainage bottleneck is vital for safeguarding our sector\u2019s long-term property valuations, BBMP must ensure this change of land use strictly complies with BDA zoning permissions under Byelaw 7.3. I am cautiously open to the infrastructure benefit, provided the proposed park is strictly gated and managed so it doesn't introduce security vulnerabilities or commercial spillover into our residential block. However, without a legally binding, high-standard maintenance framework, a neglected retention basin will quickly turn into an environmental hazard that actively depreciates our neighborhood's premium character."
+    }
+  ]
+}

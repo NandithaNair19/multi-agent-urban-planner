@@ -1,0 +1,6 @@
+.env
+.venv/
+
+PROJECT_EXPLANATION.md
+
+__pycache__/

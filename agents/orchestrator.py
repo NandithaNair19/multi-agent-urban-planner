@@ -11,21 +11,55 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-sys.path.append(str(Path(__file__).parent))
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+try:
+    from agents.persona_loader import load_persona_registry
+except ImportError:
+    from persona_loader import load_persona_registry
+
 from persona_agent import PersonaAgent
 
-PERSONA_IDS = ["poor", "middle", "wealthy"]
+PERSONAS_DIR = Path(__file__).resolve().parent.parent / "personas"
+
+
+def get_persona_ids(persona_ids=None):
+    registry = load_persona_registry(PERSONAS_DIR)
+    available = [persona["id"] for persona in registry]
+    preferred_order = ["poor", "middle", "wealthy"]
+
+    ordered_available = [persona_id for persona_id in preferred_order if persona_id in available]
+    ordered_available.extend([persona_id for persona_id in available if persona_id not in preferred_order])
+
+    if persona_ids is None:
+        return ordered_available
+
+    selected = []
+    missing = []
+    for persona_id in persona_ids:
+        if persona_id in available:
+            selected.append(persona_id)
+        else:
+            missing.append(persona_id)
+
+    if missing:
+        raise ValueError(f"Unknown persona ids requested: {missing}")
+    return selected
 
 OUTPUT_DIR = Path(__file__).parent.parent / "outputs"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
-def run_scenario(scenario: str):
+def run_scenario(scenario: str, persona_ids=None):
+    active_personas = get_persona_ids(persona_ids)
     print(f"\nSCENARIO:\n{scenario}\n")
+    print(f"PERSONAS: {', '.join(active_personas)}")
     print("=" * 70)
 
     results = []
-    for pid in PERSONA_IDS:
+    for pid in active_personas:
         agent = PersonaAgent(pid)
         result = agent.react(scenario)
         results.append(result)

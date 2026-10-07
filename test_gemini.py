@@ -6,7 +6,10 @@ the full project.
 Run:  python3 test_gemini.py
 """
 import os
+from dotenv import load_dotenv
 from google import genai
+
+load_dotenv()
 
 print("Step 1: Checking API key is set...")
 api_key = os.environ.get("GEMINI_API_KEY")

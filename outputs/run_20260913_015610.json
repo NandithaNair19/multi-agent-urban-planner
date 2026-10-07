@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-13T01:56:10.879709",
+  "ward": "Koramangala (Ward 151)",
+  "scenario": "The BBMP is proposing to convert a vacant lot near the Sony Signal to Maharaja Signal stretch (a known flood-vulnerable point) into a flood retention pond with a small public park on top, as part of stormwater drain upgrades in Koramangala ward.",
+  "personas_unweighted": true,
+  "reactions": [
+    {
+      "persona_id": "poor",
+      "persona_label": "Poor / Working-class resident",
+      "reaction": "Every rainy season, dirty water from the Sony to Maharaja signal stretch washes right into our homes, ruining our belongings and costing us days of work, so real flood relief is something we desperately need. But whenever the BBMP starts talking about building new parks, it usually means street vendors get cleared out and working-class families nearby get threatened with eviction in the name of \"beautification.\" If this retention pond actually stops the flooding without taking away our huts or driving us off the land, we welcome it, but we need a firm guarantee that our settlement won't be touched."
+    },
+    {
+      "persona_id": "middle",
+      "persona_label": "Middle-class resident",
+      "reaction": "Anyone commuting through the Sony Signal to Maharaja Signal stretch during the monsoons knows it turns into an absolute lake, stalling traffic for hours and threatening our property values. A flood retention pond sounds like a practical step to fix our broken drainage, but I\u2019m skeptical that adding a \"public park\" on top isn't just an aesthetic gimmick to gloss over poor engineering. Show us clear capacity data proving this will actually keep the roads clear during peak downpours\u2014and a solid maintenance plan so it doesn't turn into a stagnant, mosquito-breeding pit\u2014and then you'll have my support."
+    },
+    {
+      "persona_id": "wealthy",
+      "persona_label": "Wealthy resident",
+      "reaction": "While resolving the chronic inundation along the Sony Signal to Maharaja Signal corridor is vital for protecting our long-term asset values, I have serious reservations about execution and land-use precedent. Any conversion of this parcel must strictly comply with BDA land-use change sanctions under Byelaw 7.3, ensuring the retention pond is an engineered, fully covered cistern rather than an open, mosquito-breeding hazard. Furthermore, the proposed public park on top must be strictly managed with security protocols, as an unvetted open space risks introducing loitering and security vulnerabilities right at the doorstep of our quiet residential enclave."
+    }
+  ]
+}

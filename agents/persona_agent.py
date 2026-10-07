@@ -10,8 +10,17 @@ Requires: an environment variable GEMINI_API_KEY set with your free API key
 """
 import os
 import json
+import sys
+from dotenv import load_dotenv
 from pathlib import Path
 from google import genai
+
+try:
+    from agents.persona_loader import load_persona_by_id
+except ImportError:
+    from persona_loader import load_persona_by_id
+
+load_dotenv()
 
 BASE = Path(__file__).parent.parent
 PERSONAS_DIR = BASE / "personas"
@@ -27,11 +36,9 @@ def load_json(path):
 
 
 class PersonaAgent:
-    def __init__(self, persona_id: str, client: genai.Client = None):
-        persona_path = PERSONAS_DIR / f"{persona_id}.json"
-        if not persona_path.exists():
-            raise FileNotFoundError(f"No persona file at {persona_path}")
-        self.persona = load_json(persona_path)
+    def __init__(self, persona_id: str, client: genai.Client = None, personas_dir: str | Path = PERSONAS_DIR):
+        self.personas_dir = Path(personas_dir)
+        self.persona = load_persona_by_id(persona_id, self.personas_dir)
         self.ward_context = load_json(WARD_CONTEXT_PATH)
         self.bylaws = load_json(BYLAWS_PATH)
 
