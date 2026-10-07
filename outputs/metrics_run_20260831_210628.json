@@ -1,0 +1,45 @@
+{
+  "grounding": {
+    "per_persona": {
+      "poor": {
+        "categories_hit": [
+          "location",
+          "flood",
+          "authority"
+        ],
+        "count": 3,
+        "out_of": 4
+      },
+      "middle": {
+        "categories_hit": [
+          "location",
+          "flood",
+          "authority"
+        ],
+        "count": 3,
+        "out_of": 4
+      },
+      "wealthy": {
+        "categories_hit": [
+          "location",
+          "flood",
+          "authority",
+          "regulatory"
+        ],
+        "count": 4,
+        "out_of": 4
+      }
+    },
+    "overall_rate_pct": 83.3,
+    "total_hits": 10,
+    "total_possible": 12
+  },
+  "distinctiveness": {
+    "pairwise_similarity": {
+      "poor-middle": 0.152,
+      "poor-wealthy": 0.063,
+      "middle-wealthy": 0.114
+    },
+    "average_similarity": 0.11
+  }
+}
