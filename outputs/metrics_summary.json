@@ -1,0 +1,98 @@
+{
+  "runs": [
+    "run_20260831_210628.json",
+    "run_20260913_000616.json",
+    "run_20260913_015523.json",
+    "run_20260913_015610.json"
+  ],
+  "n_runs": 4,
+  "grounding_per_persona": {
+    "poor": {
+      "runs": 4,
+      "categories_per_run": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "mean_rate_pct": 75.0,
+      "min_categories": 3,
+      "max_categories": 3,
+      "out_of": 4
+    },
+    "middle": {
+      "runs": 4,
+      "categories_per_run": [
+        3,
+        3,
+        3,
+        2
+      ],
+      "mean_rate_pct": 68.8,
+      "min_categories": 2,
+      "max_categories": 3,
+      "out_of": 4
+    },
+    "wealthy": {
+      "runs": 4,
+      "categories_per_run": [
+        4,
+        3,
+        4,
+        2
+      ],
+      "mean_rate_pct": 81.3,
+      "min_categories": 2,
+      "max_categories": 4,
+      "out_of": 4
+    }
+  },
+  "grounding_overall": {
+    "total_hits": 36,
+    "total_possible": 48,
+    "rate_pct": 75.0,
+    "weakest_run_pct": 58.3,
+    "strongest_run_pct": 83.3
+  },
+  "distinctiveness_per_pair": {
+    "poor-middle": {
+      "runs": 4,
+      "mean": 0.109,
+      "min": 0.061,
+      "max": 0.152
+    },
+    "poor-wealthy": {
+      "runs": 4,
+      "mean": 0.052,
+      "min": 0.03,
+      "max": 0.063
+    },
+    "middle-wealthy": {
+      "runs": 4,
+      "mean": 0.101,
+      "min": 0.089,
+      "max": 0.114
+    }
+  },
+  "distinctiveness_overall": {
+    "mean": 0.087,
+    "max_any_pair_any_run": 0.152
+  },
+  "consistency_same_persona_across_runs": {
+    "poor": {
+      "runs": 4,
+      "pairs": 6,
+      "mean_similarity": 0.267
+    },
+    "middle": {
+      "runs": 4,
+      "pairs": 6,
+      "mean_similarity": 0.178
+    },
+    "wealthy": {
+      "runs": 4,
+      "pairs": 6,
+      "mean_similarity": 0.223
+    }
+  }
+}
