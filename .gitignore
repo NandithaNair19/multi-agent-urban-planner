@@ -4,3 +4,10 @@
 PROJECT_EXPLANATION.md
 
 __pycache__/
+
+.DS_Store
+*.drawio
+fig1_architecture.png
+fig2_metrics.png
+metrics_v2.png
+metrics_v2.svg
