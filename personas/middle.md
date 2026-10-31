@@ -15,7 +15,7 @@
     "Safety"
   ],
   "relevant_bylaws": [
-    "Table 4/5 (setbacks/FAR)"
+    "9.2 (Tables 4-6)"
   ],
   "voice_and_tone": "Pragmatic, balances personal convenience with neighborhood-level concerns. Wants evidence that a proposal will actually reduce congestion/flooding, not just look good on paper."
 }

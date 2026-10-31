@@ -1,0 +1,512 @@
+{
+  "source": "Bangalore-Building-Byelaws.pdf (BBMP Building Bye-Laws, 2003)",
+  "method": "pdfplumber text, split at numbered clause headings, whole-word topic matching",
+  "note": "Candidates only. Persona-facing summaries are curated in data/curated/bylaws_curated.json.",
+  "candidate_count": 60,
+  "count_by_topic": {
+    "slum_clearance": 2,
+    "ews_lig_housing": 1,
+    "setbacks": 36,
+    "floor_area_ratio": 25,
+    "land_use_change": 13
+  },
+  "candidates": [
+    {
+      "page": 4,
+      "clause_ref": "2.23",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "2.23 ‘development’ with its grammatical variations- means the carrying out of building, engineering, mining or other operations in, or over or under land or the making of any material change in any building or land or in the use of any building or land and includes sub-division of any land."
+    },
+    {
+      "page": 4,
+      "clause_ref": "2.33",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "2.33 ‘floor area ratio’ (FAR) means the quotient obtained by dividing the total covered area of all floors by the area of the plot. Floor area includes the mezzanine floor also. Total covered area of all floors F.A.R. = Plot area"
+    },
+    {
+      "page": 5,
+      "clause_ref": "2.48",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "2.48 ‘land use’ includes the purpose to which the site or part of the site or the building or part of the building is in use or permitted to be used by the Authority. Land use includes zoning of land use as stipulated in the development plan and the Zoning Regulations."
+    },
+    {
+      "page": 10,
+      "clause_ref": null,
+      "topics": [
+        "setbacks"
+      ],
+      "text": "e) the position of the adjacent plots whether vacant or built up; f) the area to be occupied by the proposed building and the set backs proposed for proper air and ventilation; g) the nature of the ground on which the proposed building is to be erected, whether natural like, rocky, gravelly, clayey, sandy etc., or made up ground. In the case of made up ground, the time when it was so made up and the materials used in making it up shall be indicated. In case of sloping ground where the gradient exceeds 5% (1:20) block levels have to be furnished in the site plan; h) any physical features such as wells, drains, transmission lines, etc.; i) natural features like existing trees, ridges, valleys etc., j) block levels in cases where basement/cellar floors are proposed below ground level; k) such other particulars, as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particulars, namely a) floor plans of all floors indicating north line and the various parts of the building, sizes of rooms, position of stair-cases and lifts, machine rooms, ramps etc., in detail along with street elevation;. b) use or occupancy of all parts of the building; c) exact location of essential services viz., water closets, baths, sinks, etc; d) sectional drawing showing sizes of footing, thickness of walls, spacing of columns, thickness of roof slab, height of rooms, height of parapet, drainage and slope of the terrace roof details of staircase showing tread, rise and landing width, railing, etc; e) details of ventilation of all rooms; f) open spaces or yards inside or surrounding the buildings; g) sewerage arrangements; h) the schedule of all doors, windows, and ventilators showing sizes and numbers; i) dimensions of projected portions beyond the walls like chajja, balcony, canopy, etc; j) in case of basement floor, position of the ramp with respect to the entrance, ground level and building, with a slope not exceeding 1 to 10, the drainage arrangements in the basement floor, etc; k) arrangements for vehicular parking as per standards laid down in bye-law 16.0 indicating the entry, exit of vehicles, drive way, etc; l) such other particulars like, site area, plinth area of all buildings, areas of each floor and total floor area, building coverage, total height of building, etc shall be indicated; 10"
+    },
+    {
+      "page": 11,
+      "clause_ref": null,
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "m) The drawing must be fully dimensioned so as to have easy, quick and accurate measurements. 3.2.(6) Licence fee receipt – Receipt for having paid to the Corporation fund licence fee as prescribed in bye-law 3.7.1 and 3.7.2. 3.2.(7) Indemnity bond on stamp paper as prescribed by the Authority. 3.2.(8) Schedule II of the National Building Organisation duly filled in duplicate as per Schedule XIII of these bye-laws. 3.2.(9) Foundation certificate – Foundation certificate which certifies the fitness of foundation to bear the additional building load in respect of old buildings above which new floors are proposed to be added which is issued by a Registered Architect / Engineer / Supervisor specified in Schedule IV of these bye-laws. 3.2.(10) Other certificates – Certificates from the following authorities, wherever applicable. Agency In respect of 3.2(10.1) Bangalore Development a) Commencement certificate for the change of land Authority use in the Development Plan of Bangalore as per section 14 & 15 of the Karnataka Town and Country Planning Act, 1961. b) Bifurcation or amalgamation of plot as per Section 17 of KTCP Act 1961. c) Approval in case of buildings permissible under special circumstances as per Schedule I. d) Approval of layout plan in case of Group Housing Schemes where sital area of group housing exceeds 4,000 sq. mtrs. e) In case of civic amenity site, leased out by the Bangalore Development Authority, commencement certificate under sections 14 and 15 of the Karnataka Town and Country Planning Act, 1961 for construction of the building."
+    },
+    {
+      "page": 11,
+      "clause_ref": "3.2",
+      "topics": [
+        "slum_clearance"
+      ],
+      "text": "3.2 (10.4) Fire Services Department N.O.C. in case of high rise building. (Bye-law 2.45 definition) 3.2(10.5) Airport Authority of India N.O.C. in case of high rise building. 3.2(10.6) Telecommunication N.O.C in case of high rise building above 7 floors. Department 3.2(10.7) Karnataka Slum Clearance N.O.C. with regard to non-interference with and Improvement Board improvement schemes, in respect of areas notified under section. 3 of the Karnataka Slum Areas (Improvement & Clearance) Act, 1973. 11"
+    },
+    {
+      "page": 14,
+      "clause_ref": null,
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "Note: (1) Item No.8 does not apply, in case of an entirely new construction on the site. (2) For land development, sub-division, layout, suitable colouring notations shall be used which shall be indexed."
+    },
+    {
+      "page": 14,
+      "clause_ref": "3.9",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "3.9 Ground rent for high rise buildings : High rise buildings are not exempted from payment of ground rent irrespective of the set backs and coverage. 14"
+    },
+    {
+      "page": 15,
+      "clause_ref": "3.10",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "3.10 Exemptions for ground rent - Ground rent may be exempted in the following cases, namely (1) individual residential bungalows with front set back of 6 metres and more with coverage of not more than 55 per cent. (2) schools, colleges and other institutions with a front set back of 8 meters and more with coverage of not more than 33.33 per cent. (3) religious and cultural buildings with a front set back of 8 meters and more with coverage of not more than 45 per cent. (4) heavy industries and Government buildings with large extents of land capable of storing the building materials within the periphery of the property. Note: Exemption shall be granted only on production of undertaking from the applicant on a stamped paper of Rs. 30 that the Corporation land, footpath and road will not be used for stocking building materials as well as depositing debris and in case of violation of this condition, they shall be liable to pay the ground rent at the normal rates in addition to the penalty of 50 % of the amount specified which will be recovered as arrears of tax on land and buildings, etc."
+    },
+    {
+      "page": 18,
+      "clause_ref": "6.0",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "6.0 Deviations during Construction i) Wherever any construction is in violation/deviation of the sanctioned plan, the Commissioner may, if he considers that the violations / deviations are within 5% of (1) the set back to be provided around the building, (2) plot coverage (3) floor area ratio and (4) height of the building and that the demolition under chapter XV of the Act is not feasible without affecting structural stability, he may regularise such violations/deviations after recording detailed reasons for the same. ii) Violation/deviation as at 6.0 (i) above may be regularised only after sanctioning the modified plan recording thereon the violations/deviations and after the levy of fee prescribed by the Corporation from time to time. iii) Regularisation of violations / deviations under this provision are not applicable to the buildings which are constructed without obtaining any sanctioned plan whatsoever and also the violations / deviations which are made inspite of the same being specifically deleted or rejected in the sanctioned plan. 18"
+    },
+    {
+      "page": 19,
+      "clause_ref": "7.1",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "7.1 No piece of land shall be used as a site for the construction of buildings under the following circumstances: a) if the site is not drained properly or is incapable of being well drained; b) if the Authority considers that the site is insanitary or it is dangerous to construct a building on it; c) if the building is proposed on any area filled up with filthy and offensive matter without a certificate from the Health Officer and Corporation Engineer to the effect that it is fit to be built upon from health and sanitary point of view; d) if the site is within a distance of nine meters from the water spread area of a tank at full tank level; e) if the owner of the building has not shown to the satisfaction of the Authority that all the measures required to safeguard the construction from constantly getting damp are being taken.; f) if the building is for an office or public building including school, theatre or assembly on a site which has not been previously approved by the Authority; g) if the construction of the building thereon is for public worship which in the opinion of the Authority may offend the religious feelings of any class of persons in the vicinity thereof; or which may cause obstruction to the traffic. h) if the use of the said site is for the purpose of establishing a factory, warehousing, or work place which in the opinion of the Authority will be a source of annoyance to the health and comfort of the inhabitants of the neighbourhood; i) if it violates any provisions of development plan and Zoning Regulations and j) if the plot is a revenue site for which permission under the Karnataka Land Revenue Act, 1964 is not obtained under section 95 thereof. Note: i) Every application for a factory, workshop or work place if it is proposed to employ and use power shall also satisfy the conditions of section 354 of the Act and specific permission thereunder shall be obtained. (ii)If the proposed use of the building on the site does not conform to the land use proposals of the development plan or zoning regulations, permission from the Bangalore Development Authority (a) for the change of land use and (b) for the sub-division of plot, have to be furnished."
+    },
+    {
+      "page": 19,
+      "clause_ref": "7.2",
+      "topics": [
+        "slum_clearance",
+        "ews_lig_housing"
+      ],
+      "text": "7.2 No Plan shall be sanctioned for a residential detached building on a plot measuring less than 50 sqm. or having width less than 6 metres. In specific cases of sites for housing schemes for EWS, LIG, Slum Clearance and Improvement Schemes as well as reconstruction in case of densely populated areas, and plot sub-divided due to family partitions, the Authority may relax the above conditions."
+    },
+    {
+      "page": 19,
+      "clause_ref": "7.3",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "7.3 The sites which are not located in the approved layouts of the Bangalore Development Authority, shall have sanction for their sub-divisions under section 17 of the Karnataka Town and Country Planning Act, 1961, from the Bangalore Development Authority. 19"
+    },
+    {
+      "page": 20,
+      "clause_ref": "8.1",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "8.1 The means of exclusive access other than thorough public roads and streets, shall not be of more than 30 meters in length from a public road or street. The minimum width of such access shall be 3.5 meters. F.A.R. and height of buildings coming up on such plots connected by means of exclusive access shall be regulated according to the width of public street or road. If the means of access exceeds 30.00 mtrs in length, FAR shall be regulated with reference to the width of such access road. Construction of buildings on plots with common access / lanes from the public road / street shall be regulated according to the width of such common access roads / lanes."
+    },
+    {
+      "page": 21,
+      "clause_ref": "9.0",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "9.0 OPEN SPACES, COVERAGE AND FLOOR AREA RATIO."
+    },
+    {
+      "page": 21,
+      "clause_ref": "9.2",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "9.2 Exterior open spaces/ set backs, coverage, floor area ratio, numbers of floors and heights - The set backs required on all the sides of building/s, maximum plot coverage, maximum FAR, maximum number of floors, maximum height of buildings that are permissible for different dimensioned sites and widths of roads are set out in Tables 4, 5 and 6 given below. 21"
+    },
+    {
+      "page": 22,
+      "clause_ref": "TABLE 4",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "TABLE 4 (Bye-law 9.2) EXTERIOR OPEN SPACES/SETBACKS IN METRES FOR RESIDENTIAL, COMMERCIAL, PUBLIC & SEMI-PUBLIC, TRAFFIC & TRANSPORTATION AND PUBLIC UTILITY BUILDINGS UPTO 9.5 MTRS. IN HEIGHT T & T. P.U.& T & T. P.U. & Depth of Residential Commercial Public and Width of site Residential Comercial Public and site in Semi-Public in mtrs. Semi Public mtrs. Front Rear Front Rear Front Rear Left Right Left Right Left Right Upto 6 1.00 - 1.00 - 1.50 - Upto 6 - 1.00 - - - 1.50 Over 6 1.00 1.00 1.50 - 1.50 1.50 Over 6 1.00 1.00 - 1.50 1.50 1.50 upto 9 upto 9 Over 9 1.50 1.50 1.50 1.50 3.00 1.50 Over 9 1.50 1.50 1.50 1.50 1.75 1.50 upto 12 upto 12 Over 12 3.00 1.50 3.00 1.50 3.00 1.50 Over 12 1.50 3.00 1.50 3.00 2.00 3.00 upto 18 upto 18 Over 18 4.00 3.00 3.50 3.00 4.50 2.00 Over 18 2.50 3.50 2.50 4.00 3.00 3.00 upto 24 upto 24 Over 24 5.00 3.50 4.50 3.00 6.00 3.00 Over 24 3.00 4.00 3.00 4.50 3.50 4.50 Abbreviations T & T = Traffic & Transportation, P.U. = Public utility. 22"
+    },
+    {
+      "page": 23,
+      "clause_ref": "TABLE 5",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "TABLE 5 (Bye-law 9.2) EXTERIOR OPEN SPACES/SET-BACKS FOR RESIDENTIAL, COMMERCIAL, PUBLIC AND SEMI-PUBLIC, TRAFFIC & TRANSPORTATION , PUBLIC UTILITY BUILDINGS – ABOVE 9.5 MTS. IN HEIGHT Exterior open spaces / set-backs to be left on all Sl. No. Height of Building in mtrs. sides (Front, Rear and Sides) in mtrs. 1 Above 9.5 upto 12 4.5 2 Above 12 upto 15 5.0 3 Above 15 upto 18 6.0 4 Above 18 upto 21 7.0 5 Above 21 upto 24 8.0 6 Above 24 upto 27 9.0 7 Above 27 upto 30 10.0 8 Above 30 upto 35 11.0 9 Above 35 upto 40 12.0 10 Above 40 upto 45 13.0 11 Above 45 upto 50 14.0 12 Above 50 16.0 23"
+    },
+    {
+      "page": 24,
+      "clause_ref": "TABLE 6",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 6 (Bye-law 9.2 and 9.10) COVERAGE AND FAR FOR RESIDENTIAL, COMMERCIAL, PUBLIC AND SEMI-PUBLIC, TRAFFIC & TRANSPORTATION, AND PUBLIC UTILITY BUILDING Public & Semi Residential Commercial Public T&T & Plot Public Utilities Road width Area in Plot Plot Plot (Mtrs) Sq. mtr. Cove- F.A.R. Cove- F.A.R. Cove- F.A.R rage Max. Rage Max. rage Max. Max. Max. Max. A – INTENSELY DEVELOPED AREA Upto 240 65% 0.75 65% 1.00 60% 1.00 Upto 6 Over 240 Upto 500 60% 0.75 60% 1.00 55% 1.00 Over 6 upto 9 Over 500 Upto 750 60% 1.00 60% 1.25 50% 1.00 Over 9 upto 12 Over 750 Upto 1000 60% 1.00 60% 1.25 50% 1.25 Over 12 upto 15 Over 1000 60% 1.25 55% 1.50 45% 1.25 Over 15 B – MODERATELY DEVELOPED AREA Upto 240 65% 1.00 65% 1.25 60% 1.00 Upto 9 Over 240 Upto 500 60% 1.25 60% 1.50 55% 1.25 Over 9 upto 12 Over 500 Upto 750 60% 1.25 60% 1.50 50% 1.25 Over 12 upto 15 Over 750 Upto 1000 60% 1.50 60% 1.75 50% 1.50 Over 15 upto 18 Over 1000 60% 1.75 55% 1.75 45% 1.50 Over 18 C - SPARSELY DEVELOPED AREA Upto 240 65% 1.00 65% 1.25 60% 1.25 Upto 9 Over 240 Upto 500 60% 1.25 60% 1.50 55% 1.50 Over 9 upto 12 Over 500 Upto 750 60% 1.50 60% 1.75 50% 1.50 Over 12 upto 15 Over 750 60% 1.50 60% 1.75 50% 1.80 Over 15 upto 18 upto 1000 Over 1000 60% 2.00 55% 2.00 45% 1.80 Over 18 24"
+    },
+    {
+      "page": 25,
+      "clause_ref": null,
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "Note 1: The dimensions in British system if any, adopted for the dimensions of plots may be interpreted as follows in Metric system and set backs may be applied accordingly. 20’-0” – 6.0 m 30’-0” – 9.0 m 40’-0” – 12.0 m 50’-0” – 15.0 m 60’-0” – 18.0 m 80’-0” – 24.0 m Note 2 : The open spaces to be provided shall conform to the height necessary to consume the permissible FAR. Note 3: (a) The front and rear set backs shall be with reference to the depth of the site. (b) The left and right set backs shall be with reference to the width of the site. (c) If the height of a building exceeds 9.5 metres, the set backs to be provided shall be higher of the set backs specified in tables 4 and 5. Note 4 : Building lines have been prescribed to certain roads by the Bangalore Development Authority in Table 33 of the Zoning Regulations. This table is appended as Schedule X to these bye-laws. In such cases, the front set back or the building line which is higher of the two shall be provided. Note 5 : In the case of corner sites both the sides facing the road shall be treated as front side and regulations applied accordingly to maintain the building line on these roads and to provide better visibility. Note 6 : In the case of a building facing more than two roads, the plot should be considered as corner plot taking two wider roads into consideration. Note 7 : In the case of sites facing roads both in front and rear, both the sides facing roads should be treated as front and other two sides not facing roads should be treated as right and the setbacks be applied accordingly. Note 8 : In case where the plinth of the building is not parallel to the property line, the setbacks shall not be less than the specified setbacks at any given point on any side. Note 9 : In case of irregular plots the set-backs are to be calculated according to the depth or width at the points where the depths or widths are varying. Average set-backs shall not be considered in such cases. Note 10 : The left and right set-backs may be interchanged by the Authority in exceptional cases due to existing structures like; open well and also considering the topography of the land. However, this shall be resorted to by the Authority only as an exception. Note 11: Set-backs should be provided in the owner’s plot. Public open space or conservancy should not be considered as set-backs. Note 12: In case of two or more buildings proposed on a single site, the set-backs shall be applied by considering them as a common building. In such cases, the distance between the two buildings shall be minimum of half the height of the taller building. Note 13: For plots with an area of more than 750 sqm. bell mouth entrance shall be provided. Note 14: The front set back mentioned above are minimum. The building shall be shifted back to the building lines, if any declared by any competent authority. 25"
+    },
+    {
+      "page": 26,
+      "clause_ref": "9.3.1",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "9.3.1 In the case of ‘high-rise buildings’ the minimum set-back all-round the building shall be as in Table 5."
+    },
+    {
+      "page": 26,
+      "clause_ref": "9.4",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "9.4 Garages 9.4.1. For the buildings upto a height of 9.50 metres, one garage may be permitted in the rear right hand corner of the plot without right and rear set backs, if the following requirements are fulfilled, namely a) height of the garage does not exceed 3.00 Metres from the ground level; b) not more than one upper floor is proposed over such a garage; c) height of the garage and the upper floor, if any, is limited to 6.50 Metres from the ground level; d) no other structure is proposed over upper floor of the garage; e) no openings are provided in the garage and its upper floor towards the neighbouring buildings; f) the upper floor is accessible only from lower floor; g) not exceeding one side door is provided to the garage at the ground level towards the rear setback of the building; h) no other structures except one lumber room and a stair case are provided in the rear side of the garage; i) depth of the lumber room does not exceed 1.25 Metres; j) length of the garage including the lumber room and stair case does not exceed one third of the length of the site or 6 Metres, whichever is less; k) width of the garage does not xceed 4 metres; l) the distance from the outer surface of the garage to the plot boundary is not less than 4.50 metres; m) in the case of corner plots, the garage is located at the rear corner diagonally opposite to the road intersection. 9.4.2. A Garage not exceeding 3.00 metres width may be permitted as part of the main building with minimum setbacks applicable to such a building, provided such a garage is not located at the intersection of roads in the case of corner sites. The length of the garage shall not exceed one third of the length of the corresponding side of the site or 6.00 metres, whichever is less."
+    },
+    {
+      "page": 26,
+      "clause_ref": "9.5",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "9.5 Provision of ramp in setback : A ramp provided from surface level of the site to the basement floor shall have a minimum width of 3.50 meters and slope of not more than 1 in 10. The ramp shall have a margin of two meters kept free from the adjacent properties. The gradient of a ramp shall start after leaving a minimum distance of one metres from the front boundary of the plot. 26"
+    },
+    {
+      "page": 27,
+      "clause_ref": null,
+      "topics": [
+        "setbacks"
+      ],
+      "text": "In the case of high rise buildings, the ramp may be provided in the set back area without affecting the free movement of fire tenders."
+    },
+    {
+      "page": 27,
+      "clause_ref": "9.6",
+      "topics": [
+        "setbacks",
+        "land_use_change"
+      ],
+      "text": "9.6 Application of land use : 9.6.1. Where the nomenclature of a road differs from the one mentioned in the district maps of the development plan, the location of the site may be considered to determine the land use. 9.6.2. In cases of permitted land use, the Zoning Regulations shall be applied to a building keeping in view the use of the proposed building without reference to the land use of the Zone. However, the front set back shall be the higher of the one prescribed for that particular zone or the one prescribed for the use permitted in the zone. Example: If residential permission is granted in a commercial zone, the regulations applicable to residential use only be adopted except maintaining the higher of the front set back applicable either to commercial or residential use. 9.6.3. The land use indicated towards the road side of a property shall be the land use for the entire property (one property depth) without identifying it for different uses by measuring as per the scale of the maps. 9.6.4. Different uses permitted in a given zone may be allowed in different floors of the building. In such cases, the regulations applicable to the use of the ground floor of the building shall apply to the entire building. When mixed land uses are permitted in the ground floor, the predominent use among them shall be considered as the use of the ground floor."
+    },
+    {
+      "page": 27,
+      "clause_ref": "9.8",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "9.8 Additions, alterations and modifications : i) Any additions, alterations & modifications to existing buildings shall be permitted in accordance with these bye-laws. ii) In case of the buildings which are existing prior to coming into force of these regulations, upper floors may be permitted according to the existing set-backs only, but limiting the F.A.R. and the number of floors according to the present bye-laws, subject to production of the foundation certificate as prescribed in the bye-law no. 3.2 (9)."
+    },
+    {
+      "page": 27,
+      "clause_ref": "9.10.1",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "9.10.1 The coverage, and FAR, for different sizes of plots with reference to existing road width as limiting factor are given in the table No.6 for various types of buildings like residential, commercial, public and semi-public, etc. The local planning area of Bangalore City is divided into A, B & C areas by the Bangalore Development Authority for the purpose of regulating building constructions as under:- A: Intensely developed area. B: Moderately developed area. 27"
+    },
+    {
+      "page": 28,
+      "clause_ref": "9.10.3",
+      "topics": [
+        "floor_area_ratio",
+        "land_use_change"
+      ],
+      "text": "9.10.3 (a) The floor area of a building shall be the aggregate area of the floors of all parts of the building including thickness of walls, parking area, staircase rooms, lift rooms, ramps, escalators, machine rooms, balconies, ducts including sanitary ducts, water tanks, lobbies, corridors, foyers and such other parts provided for common service. (b) The floor area ratio shall exempt the floor area used for the following purposes, namely:- (i) parking space (ii) staircase rooms (iii) lift rooms (iv) ramps (v) escalators (vi) machine rooms (vii) open balconies (viii) ducts including sanitary ducts and (ix) water tanks. (c) Parking area shall be exempted to the extent required for the building. (d) The area covered by the following structures on the roof are exempted from the floor area upto fifteen percent of the area of the roof over which they are erected, namely:- (i) staircase rooms (ii) lift machine rooms (iii) pent house (iv) water tanks (v) equipments for ventilation, air conditioning and similar services. (e) Lobbies, corridors provided in the plan shall be considered for F.A.R. (f) The nomenclature of certain roads may differ with those mentioned in the District Maps of the Revised C.D.P. In such cases, the location of the site may be considered to determine the land use. Note : One penthouse only is permissible for a building. The area of the penthouse with staircase room shall be limited to 19 sq.mtrs. If this limit is exceeded, the structures shall be considered for reckoning the FAR."
+    },
+    {
+      "page": 28,
+      "clause_ref": "9.10.4",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "9.10.4 When sites do not face the roads of required width noted against each, then the FAR applicable to the corresponding width of roads shall apply. 28"
+    },
+    {
+      "page": 29,
+      "clause_ref": "9.10.5",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "9.10.5 When a site faces wider road than the one prescribed against it, the FAR shall be restricted only to the limit prescribed for the area of that particular site."
+    },
+    {
+      "page": 29,
+      "clause_ref": "9.10.6",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "9.10.6 When coverage is less than the maximum prescribed in Table 6, floors and height beyond the limits indicated in table 5 may be permitted to utilise the full FAR subject to the provision of minimum set backs prescribed in Tables 4 and 5, whichever is applicable."
+    },
+    {
+      "page": 29,
+      "clause_ref": "9.10.7",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "9.10.7 The set-backs and coverage shall be determined irrespective of the width of the road."
+    },
+    {
+      "page": 29,
+      "clause_ref": "9.10.8",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "9.10.8 Buildings for cinemas - Setbacks and other requirements for permanent or other cinema buildings shall be in accordance with the Karnataka Cinemas (Regulation) Act 1964 and the rules made there under. No building other than a cinema theatre shall be permitted on the sites of cinema theatres unless such buildings are permissible under the above said Act. 9 .10.9 Minimum Road Width for Kalyana Mantapas – TABLE - 6A Site Area Minimum Road width a) Upto 250 Sq.Mtrs. 9.00 Mtrs b) Over 250 Upto 500 Sq.Mtrs 12.00 Mtrs c) Over 500 Upto 1000 Sq.Mtrs 15.00 Mtrs d) Over 1000 Sq.Mtrs 18.00 Mtrs"
+    },
+    {
+      "page": 29,
+      "clause_ref": "10.0",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "10.0 Semi-detached houses (back to back or side to side) - Setbacks, coverage, floor area ratio and road width in respect of semi-detached houses shall be as indicated in Table 7."
+    },
+    {
+      "page": 29,
+      "clause_ref": "TABLE 7",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 7 (Bye-law 10.0) SEMI-DETACHED HOUSES (back to back or side to side) 1. Min. combined area of the : 140 sq. mtr. neighbouring plots 2. Coverage : 3. Floor area ratio : As applicable to 4. Maximum number of floors : Individual plots 5. Minimum road width : 6. Front setbacks for back to back plots : Shall be equal to the sum of the front and the rear set backs of individual plots 7. Side set back for plots joined at the : On a plot on which a semi detached building side is proposed the left and the right side setbacks shall be the same as required for the total width of the combined plot treating it is an individual site 29"
+    },
+    {
+      "page": 30,
+      "clause_ref": "TABLE 8",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 8 (Bye-law 11.0) Row housing 1. Min. combined area of plot : 210 sq. mtr. 2. Max. area of each plot : 108 sq. mtr 3. Coverage : 4. Floor area ratio : As applicable to 5. Number of floors : Individual plots 6. Minimum road width : 7. Setbacks min. Front : 2.00 m Rear : 1.50 m Side : 2.00 only for end units"
+    },
+    {
+      "page": 30,
+      "clause_ref": "12.1",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "12.1 Norms for Approval of Group Housing Plan The following norms shall be adopted while approving the layout plan for group housing:- i) The boundary roads if any must have a minimum width of 12 mtr. ii) The FAR should be considered with reference to the width of the public road abutting the property and the FAR should be calculated after deducting the area reserved for parks, open spaces and civic amenities. iii) The set-backs should be provided with reference to depth and width of total plot area. iv) The coverage shall be with reference to total area of the layout. v) The distance between the buildings should be a minimum of half of the hieght of the tallest building. vi) 25% of the total area be reserved for CA, parks and open spaces, subject to a minimum of 15% for parks and open space. vii) The means of access to the building blocks in the area of group housing shall be as follows: Access length in mtrs. Min. width a) Less than 100 mtrs. 6 mtrs. b) 100 to 200 mtrs. 9 mtrs. c) More than 200 mtrs. 12 mtrs. vii) The area reserved for Parks and Open spaces, CA and roads (other than internal access in each sub-divided plot) shall be handed over free of cost to the B.D.A through registered relinquishment deed before issue of work order. 30"
+    },
+    {
+      "page": 31,
+      "clause_ref": "TABLE 9",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 9 (Bye-law 12.0) GROUP HOUSING The Table showing the maximum plot coverage FAR, minimum setbacks and minimum road width for Group Housing is given below. Plot Area Minimum Maximum Maximum Minimum Set-backs in Meters Road plot FAR width in coverage Mtrs. Front Rear Left Right Upto 0.40 Hectares 12 60% 2.00 5.0 4.5 4.5 5.0 Between 0.40 & 0.80 15 60% 2.25 8.0 6.0 6.0 6.0 Hectares Above 0.80 Hectares 18 60% 2.50 9.0 8.0 8.0 8.0 NOTE: 1) Group housing means more than two buildings on a plot with one or more floors and with one or more dwelling units in each floor. They are connected by an access of not less than 3.5 mtrs. in width, if they are not approachable directly from the existing roads. 2) Where the sital area o group housing exceeds 4000 sq.mtrs. approval of layout showing the general arrangement of residential building blocks, and dimesnsions of plot earmarked for each building blocks, means of access roads and civic amenity areas, should preceed the approval to building plan. 3) In case, the height of group housing building exeed 9.5m, then set back to be left alround the premises shall be as er Table 23 or Table 25 whichever is higher."
+    },
+    {
+      "page": 31,
+      "clause_ref": "13.1",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "13.1 Exterior setbacks, coverage and FAR for industrial buildings with reference to different road widths shall be as indicated in Table 10."
+    },
+    {
+      "page": 31,
+      "clause_ref": "13.2",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "13.2 The minimum plot area, maximum plot coverage, maximum FAR and minimum set backs for flatted factories shall be as specified in Table 11. 31"
+    },
+    {
+      "page": 32,
+      "clause_ref": "TABLE 10",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 10 (Bye-law 13.1) EXTERIOR SET-BACKS, COVERAGE AND F.A.R. FOR INDUSTRIAL BUILDINGS Maximum Road width Industry Min. set back in Mtrs. F.A.R. Plot Area plot coverage In mtrs. in sq. mtrs Rear & Front sides Upto 240 Service 75% 1.00 - 1.00 Over 4.5 Over 240 Service and Light 50% 4.50 4.50 0.75 Over 6.0 upto 1000 Over 1000 Service and Light upto 2000 50% 6.00 6.00 0.75 Over 9.0 Over 2000 Service, Light and upto 3000 Medium 40% 10.00 10.00 0.75 Over 12.0 Over 3000 Service, Light and upto 4000 Medium 40% 12.00 12.00 0.50 Over 12.0 Over 4000 Service, Light, Medium and Heavy 35% 15.00 15.00 0.50 Over 12.0 Note: After leaving minimum set-backs as per the above table, if the remaining portion of the plot cannot be used for erecting the building, the Authority may insist the set backs applicable for residential buildings."
+    },
+    {
+      "page": 32,
+      "clause_ref": "TABLE 11",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "TABLE 11 (Bye-law 13.2) REGULATIONS FOR FLATTED FACTORIES 1. Minimum plot area : 1000 sq. mtrs. 2. Maximum coverage : 40% 3. Maximum F.A.R. : 1.50 upto 9 mtrs. road width, and"
+    },
+    {
+      "page": 32,
+      "clause_ref": "1.75",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "1.75 above 9 mtrs. road width 4. Minimum setbacks : a. Front 8.0 mtrs. b. Rear 4.5 mtrs. c. Sides 4.5 mtrs. Note: If the height of the building exceeds 9.5 metres, the minimum set back shall be the higher of the two in Tables 5 and 11. 14. Exemptions in open space - The following exemptions in open space shall be permitted."
+    },
+    {
+      "page": 33,
+      "clause_ref": null,
+      "topics": [
+        "setbacks"
+      ],
+      "text": "(II) No projection shall over hang or project over the minimum setback area either in the cellar floor or at the lower level of the ground floor."
+    },
+    {
+      "page": 33,
+      "clause_ref": "14.2",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "14.2 Cantilever Portico - A cantilever portico of 3 metres width (maximum) and 4.5 metres length (maximum) may be permitted in the ground floor within the side set back. No access is permitted to the top of the portico for using it as a sit out. Height of the portico shall be not less than 2 metres from the plinth level. The terrace of the portico shall be open to sky. The portico when allowed shall have a clear open space of one meter from the boundary of the property."
+    },
+    {
+      "page": 33,
+      "clause_ref": "14.3",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "14.3 Balcony - The projection of the balcony shall be measured perpendicular to the building upto the outermost edge of the balcony. Cantilever projection of the balcony shall be permitted not exceeding 1/3 of the setback subject to a maximum of 1.1 mtrs. in the first floor and 1.75 metres in and above the second floor. No balcony is allowed at the ground floor level. The length of the balcony shall be limited to 1/3 of the length of each side of the building."
+    },
+    {
+      "page": 33,
+      "clause_ref": "15.1",
+      "topics": [
+        "setbacks",
+        "floor_area_ratio"
+      ],
+      "text": "15.1 The height of the building shall be governed by the limitation of the FAR, coverage, setbacks and the width of the street facing the plot as stipulated in the respective tables."
+    },
+    {
+      "page": 35,
+      "clause_ref": "16.0",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "16.0 Parking space - Adequate space for the parking of vehicles shall be provided in the sites as per standards given in Table 13 subject to the following stipulations. a) Each off street car parking space provided for motor vehicles shall not be less than 18 sq.mtrs (3 meters x 6 meters). For motor cycles and scooters, each parking space shall not be less than 2.5 sq.mtrs. (1.25 meters x 2 meters) and for cycles it shall not be less than 1.5 sq.metres. (0.75 meters x 2 meters). b) Off street car parking space shall be provided with adequate vehicular access to a street and areas of drives of not less than 2.5 mtr. wide, aisles and such other provisions required for adequate monitoring of vehicles shall be exclusive of the parking space stipulated in these bye-laws. c) No parking space shall be insisted upon in the intensely developed area of the floor space upto 100 sq.meters. d) In case of non-high rise buildings parking space may be provided in the set back, where the set- back is 6 meters. In such cases, the minimum margin of 3 meters shall be kept free from the building. e) In case of high rise buildings parking space may be provided in the set back after leaving a minimum setback of 6 Mtrs alround the building to enable movement of Fire Tender. f) Alternate means of parking such as terrace parking, multi stage parking, parking silos may be permitted, subject to production of NOC’s from the Authorities (in case of high rise buildings). In such cases, a clear height of 3.6 Meters in the basement floor has to be provided, and the space to be earmarked per unit of Car parking may be determined by the authority. g) Parking in the upper floors can be allowed only if ramps are provided after leaving the minimum setback line to reach such floors. h) Parking to be allowed on stilts should not be considered as a separate floor and the same shall be exempted from computing the height of the building provided the total height of the building does not exceed 15.00 Mtrs. 35"
+    },
+    {
+      "page": 37,
+      "clause_ref": null,
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "parallel to the rounded off or cut-off boundary upto the height of the ground floor. In such cases the FAR is to be allowed for the total area of the plot. Entry or exit for the buildings shall be provided away from the point of intersection."
+    },
+    {
+      "page": 37,
+      "clause_ref": "18.1",
+      "topics": [
+        "floor_area_ratio"
+      ],
+      "text": "18.1 a) Basement floors shall not be used for purposes other than parking and for locating machines used for service and utilities of buildings. b) Strong rooms only in case of bank buildings. The area to be used for this purpose shall be reckoned for FAR purposes. c) Installation of Radiology and X ray equipment only in case of Hospital buildings having a capacity of more than 50 beds without office. The area to be used for this purpose shall be reckoned for FAR purposes."
+    },
+    {
+      "page": 37,
+      "clause_ref": "18.4",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "18.4 If the plinth of the ground floor of the building is constructed leaving more set back than the minimum prescribed, the basement floor may extend beyond this plinth; but no part of the basement shall extend beyond the minimum set backs prescribed to the building within the plot."
+    },
+    {
+      "page": 37,
+      "clause_ref": "18.5",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "18.5 Basement floor is not permissible on sites where the setbacks prescribed in Table 4 are less than 2 metres. In such cases, basement floor may be permitted if setbacks are increased to at least 2 metres."
+    },
+    {
+      "page": 44,
+      "clause_ref": "TABLE 16",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "TABLE 16 (Bye-law 21.4) OCCUPANT LOAD Sl. No. Group of Occupancy Occupant load-gross floor area in sq. mtrs per person 1 Residential 12.5 2 Educational 4.0 3 Institutional 15.0* 4 Assembly a) With fixed or loose seats and dance floors 0.6** b) Without seating facilities including dining rooms 1.5** 5 Business and industrial 10.0 6 Storage 30.0 7 Hazardous 10.0 * The gross area shall mean plinth area or covered area. Occupant load in dormitory portions or homes for the aged, orphanages, asylums, etc., where sleeping accommodation is provided, shall be calculated at not less than 7.5 sqm. gross floor area per person. ** The gross floor area shall include, in addition, the main assembly room or space, any occupied connecting room or space in the same storey or in the storeys above or below where entrance is common to such rooms and spaces and they are available for use by the occupants or the assembly place. No deduction shall be made in the gross floor area for corridors, closets or other sub-divisions. The areas shall include all space serving the particular assembly occupancy. Note: The occupant load of a mezzanine floor discharging to a floor below shall be added to that floor occupancy and the capacity of the exits shall be designed for the total occupancy load thus established."
+    },
+    {
+      "page": 49,
+      "clause_ref": "TABLE 17",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "TABLE 17 (Bye-law 29.0) SOLAR LIGHTING AND WATER HEATER REQUIREMENTS Sl. 100 liters per day shall be provided Type of use No. for every unit 1 Restaurants serving food and drinks with 40 sq. m. of seating or serving area seating / serving area of more than 100 sq.m and above 2 Lodging establishments and Tourist Homes 3 rooms 3 Hostel and guest houses 6 beds / persons capacity 4 Industrial canteens 50 workers 5 Nursing homes and hospitals 4 beds 6 Kalyana Mandira, Community Hall and 30 sq.mtrs. of floor area Convention hall (with dining hall and kitchen) 7 Recreational clubs 100 sq. mtrs of floor area 8 Residential buildings: a) Single dwelling unit measuring 200 sq.m. of floor area or site area of more than 400 sq.m. whichever is more b) 500 lpd for multi dwelling unit / apartments for every 5 units and multiples thereof. 9 Solar photovoltaic lighting systems shall be installed in multi unit residential buildings (with more than five units) for lighting the set back areas, drive ways, and internal corridors."
+    },
+    {
+      "page": 53,
+      "clause_ref": null,
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "SCHEDULE I (Bye-law 2.48) Land use classification and uses (or occupancies) permitted."
+    },
+    {
+      "page": 53,
+      "clause_ref": "1.1",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "1.1 Classification of land use zone: a) Residential b) Commercial (retail and wholesale business) c) Industrial (light and service industries, medium industries and heavy industries) d) Public and semi-public use e) Parks, open spaces and playgrounds f) Transport and communication g) Utilities and Services h) Agricultural zone"
+    },
+    {
+      "page": 56,
+      "clause_ref": "1.2.11.1",
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "1.2.11.1 Uses that are permissible – Agriculture, horticulture, dairy and poultry farming, milk chilling centres, farm houses and their accessory buildings and uses not exceeding 200 sq. mtrs. of plinth area within the plot area limitation of 1.20 hectare. Uses specifically shown as stated in the land use plan like; urban village, brick kilns, quarrying and removal of clay and stone upto 3.0 mtrs. depth, gardens, orchards, nurseries and other stable crops, grazing pastures, forest lands, marshy land, barren land and water sheet, highway amenities viz., Filling stations, weigh bridges and check posts."
+    },
+    {
+      "page": 66,
+      "clause_ref": null,
+      "topics": [
+        "land_use_change"
+      ],
+      "text": "The above fee shall be valid for five years. The renewal fee shall be in accordance with the above scale for every 5 years of renewal. IV-7 Validity of registration IV-7.1 The validity of every registration so granted for the above categories by the Authority shall be for a period of five years and renewable thereafter for every five years unless the same is cancelled by the Authority. The application for renewal shall be made to the Authority one month before the date of expiry of the registration. If any owner / builder contravenes the provisions of these bye-laws and rules in force, the Authority shall inform the same to the registered Architect / Engineer / Supervisor in the first instance, warn in the second instance and cancel the registration if the same is repeated for the third time. IV-8 Duties and responsibilities of technical personnel applicant or owner as the case may be who undertake preparation of plans and designs and supervision of the works: a) They shall be conversant with the provisions of the Karnataka Municipal Corporation Act, 1976, rules and bye-laws made thereunder as well as the Karnataka Town and Country Planning Act, 1961 and regulations made thereunder. They shall prepare plans, sections, elevations and other structural details as per the requirements of the clauses of the above to the prescribed scales marking clearly all the dimensions along with furnishing the area tables, drawings, specifications, etc., b) They shall prepare and submit all plans either new or revised with necessary documents and other details in a neat, clean and legible manner without any scratches, erosions or corrections. c) They shall personally comply with all requirements received from the Corporation in connection with the work under their charge promptly, expeditiously and in all respects. When they do not agree with the requirements, they shall state their objections to the Authority in writing for non-compliance of any requirements within the stipulated time. Otherwise, their plans and applications shall be filed forthwith by the Commissioner and shall not be re-opened. d) They shall immediately intimate the owners the corrections, or other changes made on the plans, documents and details as per requirements of the Corporation. e) They or their authorised agents or employees, shall not accept the employment for preparation and submission of plans, with or without supervision, of any work if the same is intended or proposed to be or being executed or already executed in contravention of provisions of the Karnataka Municipal Corporation Act, 1976 and the Karnataka Town and Country Planning Act, 1961, rules, bye-laws and regulations and other orders made thereunder. f) They shall give all facilities to the Corporation’s staff to inspect and examine the work in progress. g) They shall report to the Authority of any work executed on site in contravention of provisions of the Karnataka Municipal Corporations Act, 1976, the Karnataka Town and Country Planning Act, 1961, rules, bye-laws and regulations and other orders made thereunder. They shall also report to the Authority of any work executed in contravention of the sanctioned plan in the course of construction. 66"
+    },
+    {
+      "page": 74,
+      "clause_ref": null,
+      "topics": [
+        "setbacks"
+      ],
+      "text": "SCHEDULE – X Building lines (Note 4 below Table 6) Building lines are prescribed for the following important roads in Bangalore. Wherever village / gramatanas / built-up areas are facing the highways, 5 m of building line is prescribed. Front setbacks are also prescribed separately for various types of buildings in Tables 4 and 5. The maximum of the above have to be provided as setback / building line in the front. Building lines for the following roads are as follows: District No. of Sl. Name of the road Building line required the revised No. C.D.P. 1 Sampige Road 3 m from the edge of the road 1 2 Margosa Road 3 m from the edge of the road 1 3 17th cross, Malleshwaram 3 m from the edge of the road 1 4 Platform Road 3 m from the edge of the road 1 5 T.Chowdaiah Road 5 m from the edge of the road 2 6 Palace Cross Road 3 m from the edge of the road 1 7 K.B.G.Road 3 m from the edge of the road 1 8 80 Ft.Road, Rajajinagar 3 m from the edge of the road 2 9 West of Chord Road 3 m from the edge of the road 3 10 Magadi Road 5 m upto Housing Board Quarters road 3 11 Magadi Road 12 m beyond Housing Board Quarters road 3 12 Tumkur Road 5 m upto CMTI Quarters Road 4 13 Tumkur Road 12 m beyond CMTI Quarters Road 4 14 H.M.T Road 3 m beyond CMTI Quarters Road 5 15 Triveni Road, Yashwanthpur 12 m beyond CMTI Quarters Road 16 Bellary Road 5 m upto Mekri Circle from the edge of the 6 Road 17 Bellary Road 12 m beyond Mekri Circle from the edge of 6 the Road 18 Tannery Road 3 m upto Devarajeevanahalli cross 6 19 Tannery Road 5 m beyond Devarajeevanahalli cross 6 20 Old Madras Road 5 m upto level crossing beyond Devarajeevanahalli cross (new Aero Engine 8 Factory) 21 Old Madras Road 12 m beyond level crossing beyond Devarajeevanahalli cross (new Aero Engine 8 Factory) 22 Kengal Hanumanthaiah Road 3 m from the edge of the road 9 23 Jayachamarajendra Road 3 m from the edge of the road 9 24 Lalbagh Fort Road 3 m from the edge of the road 9 25 H.Siddaiah Road 3 m from the edge of the road 9 26 Rajaram Mohan Roy Road 3 m from the edge of the road 9 27 Varthur Road 3 m from the edge of the road between 9A 74"
+    },
+    {
+      "page": 80,
+      "clause_ref": "3.00",
+      "topics": [
+        "setbacks"
+      ],
+      "text": "3.00 metres and refilled with stone aggregate and sand. The filtered rain water may be channeled to the refilled pit for recharging the borewell. iii) An impervious storage tank of required capacity may be constructed in the setback or other than space and the rain water may be channelled to the storage tank. The storage tank may be raised to a convenient height above the surface and shall always be provided with ventilating the surface and shall always be provided with ventilating covers and shall have draw-off taps suitably placed so that the rain water may be drawn off for domestic, washing, gardening and such other purposes. The storage tanks shall be provided with an overflow. iv) The surplus rain water after storage may be recharged into ground through percolation pits or trenches or combination of pits and trenches. Depending on the geomorphological and topographical condition, the pits may be of the size of 1.20 m width x 1.20 m length x 2.00 m to 2.50 metre depth. The trenches can be or 0.60 m. width x 2.00 to 6.00 metre length x 1.50 to 2.00 mtr depth. Terrace water shall be channelled to pits or trenches. Such pits or trenches shall be backfilled with filter media comprising the following materials. a) 40 mm stone aggregate as bottom layer upto 50% of the depth; b) 20 mm stone aggregate as lower middle layer upto 20% of the depth; c) Coarse sand as upper middle layer upto 20% of the depth; d) A thin layer of fine sand as top layer; e) Top 10% of the pits/trenches will be empty and a splash is to be provided in this portion in such a way that roof top water falls on the splash pad. f) Brick masonry wall is to be constructed on the exposed surface of pits/trenches and the cement mortar plastered. The depth of wall below ground shall be such that the wall prevents lose soil entering into pits/trenches. The projection of the wall above ground shall atleast be 15 cms; 80"
+    }
+  ]
+}
